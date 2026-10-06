@@ -1,0 +1,2 @@
+# ekstrem-gizlilik
+Gizlilik Politikası
